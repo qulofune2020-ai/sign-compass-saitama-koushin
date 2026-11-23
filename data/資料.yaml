@@ -1,0 +1,46 @@
+# 取得する資料の一覧（URLだけ。本体はリポジトリに置かない）
+# 種別：条例・規則・告示・しおり・ガイドライン・FAQ・一覧・手引き・ページ
+# id は「都道府県または市区町村の名前_屋外広告物_種別」（例：広島県福山市_屋外広告物_条例）
+
+資料:
+  # ---- 埼玉県（埼玉県屋外広告物条例） ----
+  - {id: 埼玉県_屋外広告物_ページ, 自治体: 埼玉県, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.saitama.lg.jp/a1102/okugai-top/index.html", メモ: "屋外広告物（県のページ）"}
+  - {id: 埼玉県_屋外広告物_窓口一覧, 自治体: 埼玉県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.pref.saitama.lg.jp/documents/5534/r80401okugaimadoguti.pdf", メモ: "屋外広告物の許可窓口一覧（令和8年4月1日）"}
+  - {id: 埼玉県_屋外広告物_条例, 自治体: 埼玉県, 区分: 屋外広告物, 種別: 条例, 最初の版で読む: true, url: "https://www.pref.saitama.lg.jp/documents/5534/241224jourei.pdf", メモ: "埼玉県屋外広告物条例"}
+  - {id: 埼玉県_屋外広告物_施行規則, 自治体: 埼玉県, 区分: 屋外広告物, 種別: 規則, 最初の版で読む: true, url: "https://www.pref.saitama.lg.jp/documents/5534/240927sekoukisoku.pdf", メモ: "埼玉県屋外広告物条例施行規則"}
+  # ---- 埼玉県さいたま市 ----
+  - {id: 埼玉県さいたま市_屋外広告物_ページ, 自治体: 埼玉県さいたま市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "http://www.city.saitama.jp/001/010/004/p030742.html", メモ: "屋外広告物（市のページ）"}
+  - {id: 埼玉県さいたま市_屋外広告物_条例, 自治体: 埼玉県さいたま市, 区分: 屋外広告物, 種別: 条例, 最初の版で読む: true, url: "https://www.city.saitama.lg.jp/001/010/004/p030742_d/fil/jorei.pdf", メモ: "さいたま市屋外広告物条例"}
+  - {id: 埼玉県さいたま市_屋外広告物_施行規則, 自治体: 埼玉県さいたま市, 区分: 屋外広告物, 種別: 規則, 最初の版で読む: true, url: "https://www.city.saitama.lg.jp/001/010/004/p030742_d/fil/sekoukisoku.pdf", メモ: "さいたま市屋外広告物条例施行規則"}
+  - {id: 埼玉県さいたま市_屋外広告物_申請案内, 自治体: 埼玉県さいたま市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.saitama.lg.jp/005/003/005/p018265.html", メモ: "屋外広告物の許可申請をする方へ"}
+  - {id: 埼玉県さいたま市_屋外広告物_処分一覧, 自治体: 埼玉県さいたま市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.saitama.lg.jp/006/008/004/004/011/p047545.html", メモ: "申請に対する処分一覧（南部都市計画指導課）"}
+
+  # ---- 独自条例の9市（Sign Compass（埼玉）の資料から） ----
+  - {id: 三郷_屋外広告物_しおり, 自治体: 埼玉県三郷市, 区分: 屋外広告物, 種別: しおり, 最初の版で読む: true, url: "https://www.city.misato.lg.jp/material/files/group/39/250911.pdf", メモ: "三郷市屋外広告物条例のしおり（令和4年4月改訂）"}
+  - {id: 三郷_屋外広告物_施行規則, 自治体: 埼玉県三郷市, 区分: 屋外広告物, 種別: 規則, 最初の版で読む: true, url: "https://www.city.misato.lg.jp/material/files/group/39/58391923.pdf", メモ: "施行規則（様式除く）"}
+  - {id: 三郷_屋外広告物_条例, 自治体: 埼玉県三郷市, 区分: 屋外広告物, 種別: 条例, 最初の版で読む: true, url: "https://www.city.misato.lg.jp/material/files/group/39/98949828.pdf", メモ: "市のページに置かれた条例のPDF"}
+  - {id: 八潮_屋外広告物_しおり, 自治体: 埼玉県八潮市, 区分: 屋外広告物, 種別: しおり, 最初の版で読む: true, url: "https://www.city.yashio.lg.jp/shisei/machizukuri/kokokubutsu/jorei.files/okugaikoukokubutunosiori.pdf", メモ: "屋外広告物のしおり"}
+  - {id: 八潮_屋外広告物_施行規則, 自治体: 埼玉県八潮市, 区分: 屋外広告物, 種別: 規則, 最初の版で読む: true, url: "https://www.city.yashio.lg.jp/shisei/machizukuri/kokokubutsu/jorei.files/shin.kisoku.pdf", メモ: "市のページに置かれた規則のPDF"}
+  - {id: 八潮_屋外広告物_条例, 自治体: 埼玉県八潮市, 区分: 屋外広告物, 種別: 条例, 最初の版で読む: true, url: "https://www.city.yashio.lg.jp/shisei/machizukuri/kokokubutsu/jorei.files/shin.jorei.pdf", メモ: "市のページに置かれた条例のPDF"}
+  - {id: 川口_屋外広告物_しおり, 自治体: 埼玉県川口市, 区分: 屋外広告物, 種別: しおり, 最初の版で読む: true, url: "https://www.city.kawaguchi.lg.jp/material/files/group/115/siorir4kaiseisaisyuuketteikou.pdf", メモ: "令和4年4月版"}
+  - {id: 川口_屋外広告物_施行規則, 自治体: 埼玉県川口市, 区分: 屋外広告物, 種別: 規則, 最初の版で読む: true, url: "https://www.city.kawaguchi.lg.jp/material/files/group/115/R040401okugaikaiseikisoku.pdf", メモ: "令和4年4月版"}
+  - {id: 川越_屋外広告物_施行規則, 自治体: 埼玉県川越市, 区分: 屋外広告物, 種別: 規則, 最初の版で読む: true, url: "https://www.city.kawagoe.saitama.jp/reiki_int/reiki_honbun/e302RG00000811.html", メモ: "市の例規集"}
+  - {id: 川越_屋外広告物_条例, 自治体: 埼玉県川越市, 区分: 屋外広告物, 種別: 条例, 最初の版で読む: true, url: "https://www.city.kawagoe.saitama.jp/reiki_int/reiki_honbun/e302RG00000797.html", メモ: "市の例規集（しおりは画像だけのため原文として取得）"}
+  - {id: 川越_景観計画_第2章, 自治体: 埼玉県川越市, 区分: 屋外広告物, 種別: 計画, 最初の版で読む: true, url: "https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/010/643/keikankeikaku2.pdf"}
+  - {id: 新座_屋外広告物_QA, 自治体: 埼玉県新座市, 区分: 屋外広告物, 種別: FAQ, 最初の版で読む: true, url: "https://www.city.niiza.lg.jp/uploaded/attachment/38306.pdf", メモ: "屋外広告物に関するQ&A"}
+  - {id: 新座_屋外広告物_チェックシート, 自治体: 埼玉県新座市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.niiza.lg.jp/uploaded/attachment/49110.pdf", メモ: "許可申請前チェックシート（提出書類・禁止地域等）"}
+  - {id: 新座_屋外広告物_審査基準_変更, 自治体: 埼玉県新座市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.niiza.lg.jp/uploaded/attachment/50943.pdf", メモ: "申請に対する処分の審査基準・標準処理期間（変更等の許可）"}
+  - {id: 新座_屋外広告物_審査基準_許可, 自治体: 埼玉県新座市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.niiza.lg.jp/uploaded/attachment/50942.pdf", メモ: "申請に対する処分の審査基準・標準処理期間（許可）"}
+  - {id: 春日部_屋外広告物_施行規則, 自治体: 埼玉県春日部市, 区分: 屋外広告物, 種別: 規則, 最初の版で読む: true, url: "https://www.city.kasukabe.lg.jp/material/files/group/41/sekoukisoku441.pdf"}
+  - {id: 春日部_屋外広告物_条例, 自治体: 埼玉県春日部市, 区分: 屋外広告物, 種別: 条例, 最初の版で読む: true, url: "https://www.city.kasukabe.lg.jp/material/files/group/41/okugaikoukokubutujyourei441.pdf"}
+  - {id: 熊谷_屋外広告物_ガイドライン, 自治体: 埼玉県熊谷市, 区分: 屋外広告物, 種別: ガイドライン, 最初の版で読む: true, url: "https://www.city.kumagaya.lg.jp/about/soshiki/toshi/toshikeikaku/oshirase/OAG.files/R7.pdf", メモ: "熊谷市屋外広告物ガイドライン（令和7年4月版）"}
+  - {id: 熊谷_屋外広告物_施行規則, 自治体: 埼玉県熊谷市, 区分: 屋外広告物, 種別: 規則, 最初の版で読む: true, url: "https://en3-jg.d1-law.com/kumagaya/d1w_reiki/H430902100050/H430902100050_j.html", メモ: "市の例規集（枠のページではなく本文のページ）"}
+  - {id: 熊谷_屋外広告物_条例, 自治体: 埼玉県熊谷市, 区分: 屋外広告物, 種別: 条例, 最初の版で読む: true, url: "https://en3-jg.d1-law.com/kumagaya/d1w_reiki/H430901010053/H430901010053_j.html", メモ: "市の例規集（枠のページではなく本文のページ）"}
+  - {id: 越谷_屋外広告物_施行規則, 自治体: 埼玉県越谷市, 区分: 屋外広告物, 種別: 規則, 最初の版で読む: true, url: "https://www.city.koshigaya.saitama.jp/kurashi_shisei/kurashi/sumai/keikan/files/okugai_kisoku.pdf"}
+  - {id: 越谷_屋外広告物_条例, 自治体: 埼玉県越谷市, 区分: 屋外広告物, 種別: 条例, 最初の版で読む: true, url: "https://www.city.koshigaya.saitama.jp/kurashi_shisei/kurashi/sumai/keikan/files/okugai_jyorei_r70601.pdf", メモ: "令和7年6月1日版"}
+  # ---- 更新の申請期限（期限台帳 /kigen-daichou/ と同じ出典） ----
+  - {id: 埼玉県越谷市_屋外広告物_許可申請, 自治体: 埼玉県越谷市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.koshigaya.saitama.jp/kurashi_shisei/kurashi/sumai/keikan/okugai_kyokashinsei.html", メモ: "屋外広告物の許可申請（越谷市）"}
+  - {id: 埼玉県上尾市_屋外広告物_ページ, 自治体: 埼玉県上尾市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.ageo.lg.jp/page/0440222040101.html", メモ: "屋外広告物（上尾市）"}
+  - {id: 埼玉県蕨市_屋外広告物_ページ, 自治体: 埼玉県蕨市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.warabi.saitama.jp/shisei/machidukuri/todokede/1010250.html", メモ: "屋外広告物（蕨市）"}
+  - {id: 埼玉県狭山市_屋外広告物_運用, 自治体: 埼玉県狭山市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.sayama.saitama.jp/jigyo/kaihatsu/doboku/koukokubutu_unyou.html", メモ: "屋外広告物の運用（狭山市）"}
+  - {id: 戸田_屋外広告物_しおり, 自治体: 埼玉県戸田市, 区分: 屋外広告物, 種別: しおり, 形式: pdf, 最初の版で読む: true, url: "https://www.city.toda.saitama.jp/uploaded/attachment/54547.PDF", メモ: "戸田市屋外広告物のしおり（令和4年7月改定）"}

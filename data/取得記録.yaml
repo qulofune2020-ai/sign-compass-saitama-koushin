@@ -1,0 +1,351 @@
+# npm run 取得 が書く。手で直さない
+取得:
+  - id: 埼玉県_屋外広告物_ページ
+    url: https://www.pref.saitama.lg.jp/a1102/okugai-top/index.html
+    最終更新: Wed, 14 Oct 2026 00:45:04 GMT
+    状態: 取得済み
+    ファイル: 埼玉県_屋外広告物_ページ.html
+    取得日: 2026-11-23
+    sha256: 4bed3c4480667121e7c86be566e9e5bdae916266faca082677952250dc4362d4
+    サイズ: 28530
+    形式: html
+  - id: 埼玉県_屋外広告物_窓口一覧
+    url: https://www.pref.saitama.lg.jp/documents/5534/r80401okugaimadoguti.pdf
+    最終更新: Thu, 30 Apr 2026 02:00:53 GMT
+    状態: 取得済み
+    ファイル: 埼玉県_屋外広告物_窓口一覧.pdf
+    取得日: 2026-11-23
+    sha256: cef557da6555c0b2edda9e066c58fc5943ebca3e55cfa4076d9f7ae2b6984e12
+    サイズ: 54461
+    形式: pdf
+    ページ数: 1
+  - id: 埼玉県_屋外広告物_条例
+    url: https://www.pref.saitama.lg.jp/documents/5534/241224jourei.pdf
+    最終更新: Tue, 15 Apr 2025 07:45:15 GMT
+    状態: 取得済み
+    ファイル: 埼玉県_屋外広告物_条例.pdf
+    取得日: 2026-11-23
+    sha256: 53282afee61f10be33a996dd6788490150b3f5d03dd954ef3c5cacee405cf53a
+    サイズ: 396107
+    形式: pdf
+    ページ数: 16
+  - id: 埼玉県_屋外広告物_施行規則
+    url: https://www.pref.saitama.lg.jp/documents/5534/240927sekoukisoku.pdf
+    最終更新: Tue, 15 Apr 2025 07:45:15 GMT
+    状態: 取得済み
+    ファイル: 埼玉県_屋外広告物_施行規則.pdf
+    取得日: 2026-11-23
+    sha256: 99c6a4f6b24b8bfecf0493c9d2e59ffa9cbb4e7f2047aec06eee72d82160b9cb
+    サイズ: 392399
+    形式: pdf
+    ページ数: 18
+  - id: 埼玉県さいたま市_屋外広告物_ページ
+    url: http://www.city.saitama.jp/001/010/004/p030742.html
+    行き着いたURL: https://www.city.saitama.lg.jp/001/010/004/p030742.html
+    最終更新: Fri, 16 Oct 2026 05:35:18 GMT
+    状態: 取得済み
+    ファイル: 埼玉県さいたま市_屋外広告物_ページ.html
+    取得日: 2026-11-23
+    sha256: 3e2318ca2770c400b90258b6e6b6db69686869c08207b16eff318ab3350ae3bd
+    サイズ: 39183
+    形式: html
+  - id: 埼玉県さいたま市_屋外広告物_条例
+    url: https://www.city.saitama.lg.jp/001/010/004/p030742_d/fil/jorei.pdf
+    最終更新: Fri, 16 Oct 2026 05:35:18 GMT
+    状態: 取得済み
+    ファイル: 埼玉県さいたま市_屋外広告物_条例.pdf
+    取得日: 2026-11-23
+    sha256: 5e3c706da73cb4c320427f8b2d2353f3a55d2b08aa92768cefcc935d693214a3
+    サイズ: 474853
+    形式: pdf
+    ページ数: 20
+  - id: 埼玉県さいたま市_屋外広告物_施行規則
+    url: https://www.city.saitama.lg.jp/001/010/004/p030742_d/fil/sekoukisoku.pdf
+    最終更新: Fri, 16 Oct 2026 05:35:18 GMT
+    状態: 取得済み
+    ファイル: 埼玉県さいたま市_屋外広告物_施行規則.pdf
+    取得日: 2026-11-23
+    sha256: 811b5f13d1229a05cb1ba1b7f0e49b3765d0f267fbd8798e94bb22f9aacf2ef9
+    サイズ: 213897
+    形式: pdf
+    ページ数: 12
+  - id: 埼玉県さいたま市_屋外広告物_申請案内
+    url: https://www.city.saitama.lg.jp/005/003/005/p018265.html
+    最終更新: Fri, 16 Oct 2026 05:31:33 GMT
+    状態: 取得済み
+    ファイル: 埼玉県さいたま市_屋外広告物_申請案内.html
+    取得日: 2026-11-23
+    sha256: d9bb6899547c781940f5afcaaea6ea987e75e5f880dfe3037631417742bb0e25
+    サイズ: 55932
+    形式: html
+  - id: 埼玉県さいたま市_屋外広告物_処分一覧
+    url: https://www.city.saitama.lg.jp/006/008/004/004/011/p047545.html
+    最終更新: Fri, 10 Apr 2026 00:26:53 GMT
+    状態: 取得済み
+    ファイル: 埼玉県さいたま市_屋外広告物_処分一覧.html
+    取得日: 2026-11-23
+    sha256: d4ebcd090e0a0103076d11332b0456e6690a46f22f992d54feb1d574925d74ee
+    サイズ: 34741
+    形式: html
+  - id: 三郷_屋外広告物_しおり
+    url: https://www.city.misato.lg.jp/material/files/group/39/250911.pdf
+    最終更新: Thu, 11 Sep 2025 00:53:07 GMT
+    状態: 取得済み
+    ファイル: 三郷_屋外広告物_しおり.pdf
+    取得日: 2026-11-23
+    sha256: 1bade93ee4acdb755e378b10931d1512fd7a4a4db17cc25fbabc7253acb2b176
+    サイズ: 2068321
+    形式: pdf
+    ページ数: 28
+  - id: 三郷_屋外広告物_施行規則
+    url: https://www.city.misato.lg.jp/material/files/group/39/58391923.pdf
+    最終更新: Tue, 14 Mar 2023 18:43:06 GMT
+    状態: 取得済み
+    ファイル: 三郷_屋外広告物_施行規則.pdf
+    取得日: 2026-11-23
+    sha256: 0a52afd6398690e256489e27c669f4f8250afe82e7c75610ed007056dca4c97e
+    サイズ: 284352
+    形式: pdf
+    ページ数: 19
+  - id: 三郷_屋外広告物_条例
+    url: https://www.city.misato.lg.jp/material/files/group/39/98949828.pdf
+    最終更新: Tue, 14 Mar 2023 18:43:06 GMT
+    状態: 取得済み
+    ファイル: 三郷_屋外広告物_条例.pdf
+    取得日: 2026-11-23
+    sha256: a6cb7ad61577584eb26cdd5de0f40fe8234480773f0766bd71756e9607820e83
+    サイズ: 290439
+    形式: pdf
+    ページ数: 17
+  - id: 八潮_屋外広告物_しおり
+    url: https://www.city.yashio.lg.jp/shisei/machizukuri/kokokubutsu/jorei.files/okugaikoukokubutunosiori.pdf
+    最終更新: Thu, 12 Jun 2025 07:45:41 GMT
+    状態: 取得済み
+    ファイル: 八潮_屋外広告物_しおり.pdf
+    取得日: 2026-11-23
+    sha256: 1b18b537f81f3a4bf8be8e78bdcd6bc20a53a3a5355969059b44d59932887cb9
+    サイズ: 4042479
+    形式: pdf
+    ページ数: 28
+  - id: 八潮_屋外広告物_施行規則
+    url: https://www.city.yashio.lg.jp/shisei/machizukuri/kokokubutsu/jorei.files/shin.kisoku.pdf
+    最終更新: Thu, 31 Mar 2022 06:18:27 GMT
+    状態: 取得済み
+    ファイル: 八潮_屋外広告物_施行規則.pdf
+    取得日: 2026-11-23
+    sha256: 2ca3e49fd0ff5792a4a970aae7f1d55d112504a421d92d21ebae2f076a936e95
+    サイズ: 1360073
+    形式: pdf
+    ページ数: 38
+  - id: 八潮_屋外広告物_条例
+    url: https://www.city.yashio.lg.jp/shisei/machizukuri/kokokubutsu/jorei.files/shin.jorei.pdf
+    最終更新: Thu, 31 Mar 2022 06:16:45 GMT
+    状態: 取得済み
+    ファイル: 八潮_屋外広告物_条例.pdf
+    取得日: 2026-11-23
+    sha256: b4c61e328cda1766931af68b5e6d0b21bbbcd8a34c61fe09da828b348647ebc9
+    サイズ: 283133
+    形式: pdf
+    ページ数: 13
+  - id: 川口_屋外広告物_しおり
+    url: https://www.city.kawaguchi.lg.jp/material/files/group/115/siorir4kaiseisaisyuuketteikou.pdf
+    最終更新: Fri, 15 Apr 2022 01:35:31 GMT
+    状態: 取得済み
+    ファイル: 川口_屋外広告物_しおり.pdf
+    取得日: 2026-11-23
+    sha256: d641ac31075b3e676101ddafa9f01084ff72c8ee219d55907b73e5136063e5c1
+    サイズ: 7500936
+    形式: pdf
+    ページ数: 14
+  - id: 川口_屋外広告物_施行規則
+    url: https://www.city.kawaguchi.lg.jp/material/files/group/115/R040401okugaikaiseikisoku.pdf
+    最終更新: Wed, 15 Jun 2022 00:33:44 GMT
+    状態: 取得済み
+    ファイル: 川口_屋外広告物_施行規則.pdf
+    取得日: 2026-11-23
+    sha256: 13794b3a8aedf0af2b342df02e72e26164790d66d93ba9f7ab19b02a7e00e5f8
+    サイズ: 528828
+    形式: pdf
+    ページ数: 28
+  - id: 川越_屋外広告物_施行規則
+    url: https://www.city.kawagoe.saitama.jp/reiki_int/reiki_honbun/e302RG00000811.html
+    最終更新: Thu, 10 Sep 2026 07:58:57 GMT
+    状態: 取得済み
+    ファイル: 川越_屋外広告物_施行規則.html
+    取得日: 2026-11-23
+    sha256: bbbd7168cf7f5b2f33b8639f20a1b6279e8763e60ac073edce9f3032c821d886
+    サイズ: 244455
+    形式: html
+  - id: 川越_屋外広告物_条例
+    url: https://www.city.kawagoe.saitama.jp/reiki_int/reiki_honbun/e302RG00000797.html
+    最終更新: Thu, 10 Sep 2026 07:58:53 GMT
+    状態: 取得済み
+    ファイル: 川越_屋外広告物_条例.html
+    取得日: 2026-11-23
+    sha256: e574570d8f14659f8cd34039a9bc1abfef01bc266890e0983235b82c20489f85
+    サイズ: 224377
+    形式: html
+  - id: 川越_景観計画_第2章
+    url: https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/010/643/keikankeikaku2.pdf
+    最終更新: Thu, 18 Jul 2024 03:54:03 GMT
+    状態: 取得済み
+    ファイル: 川越_景観計画_第2章.pdf
+    取得日: 2026-11-23
+    sha256: 3e0627bb1be430aa9b5e0fc9664c8c6363b203a57d7ed9a26acad28a7b3a3d34
+    サイズ: 585121
+    形式: pdf
+    ページ数: 22
+  - id: 新座_屋外広告物_QA
+    url: https://www.city.niiza.lg.jp/uploaded/attachment/38306.pdf
+    最終更新: Fri, 26 Jan 2024 04:28:28 GMT
+    状態: 取得済み
+    ファイル: 新座_屋外広告物_QA.pdf
+    取得日: 2026-11-23
+    sha256: 4e82f5d5298ee9cb350f75a24948918517becd32c31f19f7fd8d72bae343cf05
+    サイズ: 443467
+    形式: pdf
+    ページ数: 7
+  - id: 新座_屋外広告物_チェックシート
+    url: https://www.city.niiza.lg.jp/uploaded/attachment/49110.pdf
+    最終更新: Thu, 15 Oct 2026 04:00:33 GMT
+    状態: 取得済み
+    ファイル: 新座_屋外広告物_チェックシート.pdf
+    取得日: 2026-11-23
+    sha256: 302501cc108683e0cba4d3d6617003b596a6e13114f4b33cb9f3bc50d90a20bf
+    サイズ: 93083
+    形式: pdf
+    ページ数: 2
+  - id: 新座_屋外広告物_審査基準_変更
+    url: https://www.city.niiza.lg.jp/uploaded/attachment/50943.pdf
+    最終更新: Tue, 19 Mar 2024 08:00:36 GMT
+    状態: 取得済み
+    ファイル: 新座_屋外広告物_審査基準_変更.pdf
+    取得日: 2026-11-23
+    sha256: 33cd05456d2e3a581b7f2db7906a0a386d0ecedc32f1dfba63031e60ccafb61f
+    サイズ: 187091
+    形式: pdf
+    ページ数: 2
+  - id: 新座_屋外広告物_審査基準_許可
+    url: https://www.city.niiza.lg.jp/uploaded/attachment/50942.pdf
+    最終更新: Tue, 19 Mar 2024 08:00:36 GMT
+    状態: 取得済み
+    ファイル: 新座_屋外広告物_審査基準_許可.pdf
+    取得日: 2026-11-23
+    sha256: 1db11a34c5e839ea4c5daba31d1239b9a4a10434fc265a1cbfb543533a7c2acf
+    サイズ: 204067
+    形式: pdf
+    ページ数: 2
+  - id: 春日部_屋外広告物_施行規則
+    url: https://www.city.kasukabe.lg.jp/material/files/group/41/sekoukisoku441.pdf
+    最終更新: Thu, 24 Feb 2022 00:13:18 GMT
+    状態: 取得済み
+    ファイル: 春日部_屋外広告物_施行規則.pdf
+    取得日: 2026-11-23
+    sha256: 99737dba299e6b2c1ba12c3ba6a2a06c756667ee563627198066cfaf14c57e1c
+    サイズ: 175803
+    形式: pdf
+    ページ数: 11
+  - id: 春日部_屋外広告物_条例
+    url: https://www.city.kasukabe.lg.jp/material/files/group/41/okugaikoukokubutujyourei441.pdf
+    最終更新: Thu, 24 Feb 2022 00:11:53 GMT
+    状態: 取得済み
+    ファイル: 春日部_屋外広告物_条例.pdf
+    取得日: 2026-11-23
+    sha256: bb66a78b7fe5525063373fc7ce15ce88f130267155be5deed6b416c40da8210c
+    サイズ: 384321
+    形式: pdf
+    ページ数: 12
+  - id: 熊谷_屋外広告物_ガイドライン
+    url: https://www.city.kumagaya.lg.jp/about/soshiki/toshi/toshikeikaku/oshirase/OAG.files/R7.pdf
+    最終更新: Thu, 27 Feb 2025 02:34:52 GMT
+    状態: 取得済み
+    ファイル: 熊谷_屋外広告物_ガイドライン.pdf
+    取得日: 2026-11-23
+    sha256: 4d0c0984cb08899b0abf89c7e294a78c74174851d20fab066f75028a30b1e19d
+    サイズ: 19435373
+    形式: pdf
+    ページ数: 48
+  - id: 熊谷_屋外広告物_施行規則
+    url: https://en3-jg.d1-law.com/kumagaya/d1w_reiki/H430902100050/H430902100050_j.html
+    最終更新: Thu, 12 Nov 2026 05:27:51 GMT
+    状態: 取得済み
+    ファイル: 熊谷_屋外広告物_施行規則.html
+    取得日: 2026-11-23
+    sha256: a00e49ec27ca319e257c2393821c7010445bbc2156f17e555108a901bc9d7e4c
+    サイズ: 142923
+    形式: html
+  - id: 熊谷_屋外広告物_条例
+    url: https://en3-jg.d1-law.com/kumagaya/d1w_reiki/H430901010053/H430901010053_j.html
+    最終更新: Thu, 12 Nov 2026 05:38:08 GMT
+    状態: 取得済み
+    ファイル: 熊谷_屋外広告物_条例.html
+    取得日: 2026-11-23
+    sha256: 610ba6c8f142fd5632afb3123d39905dfdfb02d32443aebc4ecf9d18b1fb6720
+    サイズ: 84117
+    形式: html
+  - id: 越谷_屋外広告物_施行規則
+    url: https://www.city.koshigaya.saitama.jp/kurashi_shisei/kurashi/sumai/keikan/files/okugai_kisoku.pdf
+    最終更新: Fri, 22 Nov 2024 01:33:05 GMT
+    状態: 取得済み
+    ファイル: 越谷_屋外広告物_施行規則.pdf
+    取得日: 2026-11-23
+    sha256: 99ec06e4e3b8b4088562aea4814a7977a98b0f7f6aff9230e358bd86430e20ea
+    サイズ: 2539586
+    形式: pdf
+    ページ数: 73
+  - id: 越谷_屋外広告物_条例
+    url: https://www.city.koshigaya.saitama.jp/kurashi_shisei/kurashi/sumai/keikan/files/okugai_jyorei_r70601.pdf
+    最終更新: Tue, 08 Jul 2025 08:01:16 GMT
+    状態: 取得済み
+    ファイル: 越谷_屋外広告物_条例.pdf
+    取得日: 2026-11-23
+    sha256: a0b966b95e20dcc6384120e3ff57533c478c3c4a0a9ec63e2c66d844417146dc
+    サイズ: 345499
+    形式: pdf
+    ページ数: 29
+  - id: 埼玉県越谷市_屋外広告物_許可申請
+    url: https://www.city.koshigaya.saitama.jp/kurashi_shisei/kurashi/sumai/keikan/okugai_kyokashinsei.html
+    最終更新: Tue, 13 Oct 2026 15:36:52 GMT
+    状態: 取得済み
+    ファイル: 埼玉県越谷市_屋外広告物_許可申請.html
+    取得日: 2026-11-23
+    sha256: ff22dfe0c15d9dcaf66b0f105489defe4c5d55172d83fc8e0c5fe55f749b4e1f
+    サイズ: 51027
+    形式: html
+  - id: 埼玉県上尾市_屋外広告物_ページ
+    url: https://www.city.ageo.lg.jp/page/0440222040101.html
+    最終更新: Sun, 22 Nov 2026 18:01:22 GMT
+    状態: 取得済み
+    ファイル: 埼玉県上尾市_屋外広告物_ページ.html
+    取得日: 2026-11-23
+    sha256: 2ec6d75dc3f46d63e475c702d97899dc28d1d482b246efbeb6b12ae52d1a850b
+    サイズ: 40669
+    形式: html
+  - id: 埼玉県蕨市_屋外広告物_ページ
+    url: https://www.city.warabi.saitama.jp/shisei/machidukuri/todokede/1010250.html
+    最終更新: Mon, 23 Nov 2026 11:01:31 GMT
+    状態: 取得済み
+    ファイル: 埼玉県蕨市_屋外広告物_ページ.html
+    取得日: 2026-11-23
+    sha256: 1fb4de05ea61b3300f1cef80a547dac55d76da3cb17737ac411f003775e90810
+    サイズ: 41390
+    形式: html
+  - id: 埼玉県狭山市_屋外広告物_運用
+    url: https://www.city.sayama.saitama.jp/jigyo/kaihatsu/doboku/koukokubutu_unyou.html
+    最終更新: Sun, 22 Nov 2026 23:00:24 GMT
+    状態: 取得済み
+    ファイル: 埼玉県狭山市_屋外広告物_運用.html
+    取得日: 2026-11-23
+    sha256: 94b0f2397e14c03d20075b8b4565fa3cc5de622e4e35eef475e67082f3354ca7
+    サイズ: 44475
+    形式: html
+  - id: 戸田_屋外広告物_しおり
+    url: https://www.city.toda.saitama.jp/uploaded/attachment/54547.PDF
+    最終更新: Thu, 13 Nov 2025 01:59:26 GMT
+    状態: 取得済み
+    ファイル: 戸田_屋外広告物_しおり.pdf
+    取得日: 2026-11-23
+    sha256: 05d29d88846db808ac461667c5caf06579d711913a48c682feb79b6a179b1cae
+    サイズ: 6399772
+    形式: pdf
+    ページ数: 26
