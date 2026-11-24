@@ -172,7 +172,7 @@
     最終更新: Thu, 10 Sep 2026 07:58:57 GMT
     状態: 取得済み
     ファイル: 川越_屋外広告物_施行規則.html
-    取得日: 2026-11-23
+    取得日: 2026-11-24
     sha256: bbbd7168cf7f5b2f33b8639f20a1b6279e8763e60ac073edce9f3032c821d886
     サイズ: 244455
     形式: html
@@ -181,16 +181,26 @@
     最終更新: Thu, 10 Sep 2026 07:58:53 GMT
     状態: 取得済み
     ファイル: 川越_屋外広告物_条例.html
-    取得日: 2026-11-23
+    取得日: 2026-11-24
     sha256: e574570d8f14659f8cd34039a9bc1abfef01bc266890e0983235b82c20489f85
     サイズ: 224377
     形式: html
+  - id: 川越_屋外広告物_しおり2026
+    url: https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/010/665/shiori2026.pdf
+    最終更新: Fri, 17 Apr 2026 02:12:06 GMT
+    状態: 取得済み
+    ファイル: 川越_屋外広告物_しおり2026.pdf
+    取得日: 2026-11-24
+    sha256: 42b3d76aef89fd81525c6c10b5320cc260f5b8a862a36e3f9f3de85132e49c17
+    サイズ: 12091318
+    形式: pdf
+    ページ数: 32
   - id: 川越_景観計画_第2章
     url: https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/010/643/keikankeikaku2.pdf
     最終更新: Thu, 18 Jul 2024 03:54:03 GMT
     状態: 取得済み
     ファイル: 川越_景観計画_第2章.pdf
-    取得日: 2026-11-23
+    取得日: 2026-11-24
     sha256: 3e0627bb1be430aa9b5e0fc9664c8c6363b203a57d7ed9a26acad28a7b3a3d34
     サイズ: 585121
     形式: pdf
