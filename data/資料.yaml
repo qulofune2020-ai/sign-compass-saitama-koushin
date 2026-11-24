@@ -26,6 +26,7 @@
   - {id: 川口_屋外広告物_施行規則, 自治体: 埼玉県川口市, 区分: 屋外広告物, 種別: 規則, 最初の版で読む: true, url: "https://www.city.kawaguchi.lg.jp/material/files/group/115/R040401okugaikaiseikisoku.pdf", メモ: "令和4年4月版"}
   - {id: 川越_屋外広告物_施行規則, 自治体: 埼玉県川越市, 区分: 屋外広告物, 種別: 規則, 最初の版で読む: true, url: "https://www.city.kawagoe.saitama.jp/reiki_int/reiki_honbun/e302RG00000811.html", メモ: "市の例規集"}
   - {id: 川越_屋外広告物_条例, 自治体: 埼玉県川越市, 区分: 屋外広告物, 種別: 条例, 最初の版で読む: true, url: "https://www.city.kawagoe.saitama.jp/reiki_int/reiki_honbun/e302RG00000797.html", メモ: "市の例規集（しおりは画像だけのため原文として取得）"}
+  - {id: 川越_屋外広告物_しおり2026, 自治体: 埼玉県川越市, 区分: 屋外広告物, 種別: しおり, 最初の版で読む: true, url: "https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/010/665/shiori2026.pdf", メモ: "川越市屋外広告物条例のしおり（2026年版）。画像だけのPDFのためOCR"}
   - {id: 川越_景観計画_第2章, 自治体: 埼玉県川越市, 区分: 屋外広告物, 種別: 計画, 最初の版で読む: true, url: "https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/010/643/keikankeikaku2.pdf"}
   - {id: 新座_屋外広告物_QA, 自治体: 埼玉県新座市, 区分: 屋外広告物, 種別: FAQ, 最初の版で読む: true, url: "https://www.city.niiza.lg.jp/uploaded/attachment/38306.pdf", メモ: "屋外広告物に関するQ&A"}
   - {id: 新座_屋外広告物_チェックシート, 自治体: 埼玉県新座市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.niiza.lg.jp/uploaded/attachment/49110.pdf", メモ: "許可申請前チェックシート（提出書類・禁止地域等）"}
